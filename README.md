@@ -1,7 +1,7 @@
 # Hello Geeks👋!
 
 
-I'm Mayuresh Naidu, a curious coder and UX enthusiast with a passion for building user-centered applications. With a background in computer science and self-taught UX design, I thrive at the intersection of creativity and functionality. Currently sharpening my skills in web development at <a href="https://mediaarts.humber.ca/programs/web-development.html">Humber Polytechnic</a>, I love turning ideas into reality through clean code and intuitive design. When I’m not coding, I’m exploring new tech, solving problems, or brainstorming my next project. Let’s build something awesome together! 🚀
+I'm Mayuresh Naidu, a curious coder and UX enthusiast with a passion for building user-centered applications. With a background in computer science and UX design, I thrive at the intersection of creativity and functionality. Currently sharpening my skills in web development at <a href="https://mediaarts.humber.ca/programs/web-development.html">Humber Polytechnic</a>, I love turning ideas into reality through clean code and intuitive design. When I’m not coding, I’m exploring new tech, solving problems, or brainstorming my next project. Let’s build something awesome together! 🚀
 
 <img align='right' src="./assets/code.gif" width="300" />
 
