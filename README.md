@@ -11,6 +11,7 @@ I'm Mayuresh Naidu, a curious coder and UX enthusiast with a passion for buildin
 - [LinkedIn](https://www.linkedin.com/in/mayuresh-naidu-233802204/) 
 - [My personal portfolio](https://mayureshnaidu.webflow.io)
 
+<br><br>
  ### 📊 My GitHub Stats
  
  <div>
@@ -18,3 +19,6 @@ I'm Mayuresh Naidu, a curious coder and UX enthusiast with a passion for buildin
 
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meiyo99&&hide_border=true&langs_count=10&show_icons=true&locale=en&layout=compact&text_color=ffffff&theme=transparent" alt="Gift's language" height="192px"  width="340px"/>
 </div>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=meiyo99&theme=discord&no-frame=true&no-bg=false&margin-w=4)
