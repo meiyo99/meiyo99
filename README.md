@@ -11,9 +11,10 @@ I'm Mayuresh Naidu, a curious coder and UX enthusiast with a passion for buildin
 - [LinkedIn](https://www.linkedin.com/in/mayuresh-naidu-233802204/) 
 - [My personal portfolio](https://mayureshnaidu.webflow.io)
 
- ###  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 30px> 
+ ### 📊 My GitHub Stats
  
  <div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meiyo99" alt="Gift's LangStat" width = 400px />
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meiyo99&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="340px"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meiyo99&theme=transparent&hide_border=true" alt="Gift's LangStat" width = 400px />
+
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meiyo99&&hide_border=true&langs_count=10&show_icons=true&locale=en&layout=compact&text_color=ffffff&theme=transparent" alt="Gift's language" height="192px"  width="340px"/>
 </div>
