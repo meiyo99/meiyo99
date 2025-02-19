@@ -15,5 +15,5 @@ I'm Mayuresh Naidu, a curious coder and UX enthusiast with a passion for buildin
  
  <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meiyo99" alt="Gift's LangStat" width = 400px />
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meiyo99&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="350px"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meiyo99&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="340px"/>
 </div>
