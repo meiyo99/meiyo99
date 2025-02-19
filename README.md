@@ -11,6 +11,7 @@ I'm Mayuresh Naidu, a curious coder and UX enthusiast with a passion for buildin
 - [LinkedIn](https://www.linkedin.com/in/mayuresh-naidu-233802204/) 
 - [My personal portfolio](https://mayureshnaidu.webflow.io)
 
+<br>
  ### 📊 My GitHub Stats
  <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meiyo99&theme=transparent&hide_border=true" alt="Gift's LangStat" width = 400px />
