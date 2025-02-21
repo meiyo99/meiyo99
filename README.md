@@ -26,6 +26,7 @@ I'm Mayuresh Naidu, a curious coder and UX enthusiast with a passion for buildin
 	<img title="CSS" alt="CSS" src="./assets/skill-icons/icons8-css.svg" width="50" height="50" style="vertical-align:down; margin:4px"/>
     <img title="Javascript" alt="Javascript" src="./assets/skill-icons/icons8-javascript.svg" width="50" height="50" style="vertical-align:down; margin:4px"/>
     <img title="Csharp" alt="Csharp" src="./assets/skill-icons/icons8-c.svg" width="50" height="50" style="vertical-align:down; margin:4px"/>
+	<img title="MySQL" alt="MySQL" src="./assets/skill-icons/icons8-mysql.svg" width="50" height="50" style="vertical-align:down; margin:4px"/>
 	<img title="Git" alt="Git" src="./assets/skill-icons/icons8-git.svg" width="50" height="50" style="vertical-align:down; margin:4px"/>
     <img title="Figma" alt="Figma" src="./assets/skill-icons/icons8-figma.svg" width="50" height="50" style="vertical-align:down; margin:4px"/>
     <img title="Webflow" alt="Webflow" src="./assets/skill-icons/icons8-webflow.svg" width="50" height="50" style="vertical-align:down; margin:4px"/>
