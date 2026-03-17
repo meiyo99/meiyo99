@@ -1,7 +1,11 @@
 # Hello Geeks! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px>
 
 
-I'm Mayuresh, a curious programmer and UX enthusiast with a passion for building user-centered applications. With a background in computer science and UX design, I thrive at the intersection of creativity and functionality. Currently sharpening my skills in web development at <a href="https://mediaarts.humber.ca/programs/web-development.html">Humber Polytechnic</a>, I love turning ideas into reality through clean code and intuitive design. When I’m not coding, I’m exploring new tech, solving problems, or brainstorming my next project. Let’s build something awesome together! 🚀
+I got into software development because I like solving problems that actually matter to people, whether that's a backend that doesn't buckle under load or a frontend that just feels right to use.
+
+Over the past four years I've built production systems across different environments, from an established healthcare company to an early-stage Toronto startup, working across Node.js, React.js, TypeScript, and PostgreSQL.
+
+I care about clean architecture, accessible design, and writing code I'd be comfortable reviewing six months later.
 
 <img align='right' src="./assets/code1.gif" width="270" />
 
