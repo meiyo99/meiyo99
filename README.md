@@ -13,7 +13,7 @@ I care about clean architecture, accessible design, and writing code I'd be comf
 - mayureshnaiduu@gmail.com
 - [Instagram](https://www.instagram.com/notmeiyo/)
 - [LinkedIn](https://www.linkedin.com/in/mayuresh-naidu-233802204/) 
-- [My personal portfolio](https://mayureshnaidu.webflow.io)
+- [My portfolio](https://meiyo.dev)
 
 <br>
 
