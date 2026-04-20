@@ -28,10 +28,6 @@ I care about clean architecture, accessible design, and writing code I'd be comf
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,python,cs,mysql,postgres,docker,git,claude,figma&perline=9" />
 </p>
-<p align="center">
-  <img title="Webflow" alt="Webflow" src="./assets/skill-icons/icons8-webflow.svg" width="50" height="50" style="vertical-align:middle; margin:4px"/>
-  <img title="Notion" alt="Notion" src="./assets/skill-icons/icons8-notion.svg" width="50" height="50" style="vertical-align:middle; margin:4px"/>
-</p>
 
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=meiyo99&theme=discord&no-frame=true&no-bg=false&margin-w=4) -->
