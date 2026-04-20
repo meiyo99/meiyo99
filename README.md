@@ -27,6 +27,7 @@ I care about clean architecture, accessible design, and writing code I'd be comf
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,python,cs,mysql,postgres,docker,git,figma&perline=9" />
+ <img title="Claude" alt="Claude" src="https://cdn.simpleicons.org/anthropic/ffffff" width="50" height="50" style="vertical-align:middle; margin:4px"/>
 </p>
 <p align="center">
   <img title="Claude" alt="Claude" src="https://cdn.simpleicons.org/anthropic/ffffff" width="50" height="50" style="vertical-align:middle; margin:4px"/>
