@@ -26,7 +26,12 @@ I care about clean architecture, accessible design, and writing code I'd be comf
 ### 👾 My skills include
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,python,cs,mysql,postgres,docker,git,claude,figma&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,python,cs,mysql,postgres,docker,git,figma&perline=9" />
+</p>
+<p align="center">
+  <img title="Claude" alt="Claude" src="https://cdn.simpleicons.org/anthropic/ffffff" width="50" height="50" style="vertical-align:middle; margin:4px"/>
+  <img title="Webflow" alt="Webflow" src="./assets/skill-icons/icons8-webflow.svg" width="50" height="50" style="vertical-align:middle; margin:4px"/>
+  <img title="Notion" alt="Notion" src="./assets/skill-icons/icons8-notion.svg" width="50" height="50" style="vertical-align:middle; margin:4px"/>
 </p>
 
 <!-- ## 🏆 GitHub Trophies
